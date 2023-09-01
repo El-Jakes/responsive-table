@@ -10,3 +10,10 @@ body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+
+.wrapper {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid blue;
+}
