@@ -1,8 +1,8 @@
 # responsive-table
 
-The table comprise dummy data of 20 ficticious students showing their hobby, tech skills and the tools they use.
-the table is responsibe across all. devices
+The table comprises dummy data of 20 fictitious students showing their hobbies, tech skills, and the tools they use.
+the table is responsive across all. devices
 
-##Challenges faced
-I observed the table has accessibility issues on smaller screen due to the fact that created generic headings.
-I'd really appreciate if anyone can help me out with a solution on how i can fix this problem.
+## Challenges faced
+I observed the table has accessibility issues on smaller screens due to the fact that I created generic headings for smaller screens.
+I'd really appreciate it if anyone could help me with a solution to how I can fix this problem.
