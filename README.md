@@ -1,6 +1,6 @@
 # responsive-table
 
-The table comprises dummy data of 20 fictitious students showing their hobbies, tech skills, and the tools they use.
+The table comprises user data fetched from an API.
 the table is responsive across all. devices
 
 ## Challenges faced
